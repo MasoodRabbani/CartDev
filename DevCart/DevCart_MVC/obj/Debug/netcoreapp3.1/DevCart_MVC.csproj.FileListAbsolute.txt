@@ -110,3 +110,4 @@ E:\New PJ DevCart\DevCart\DevCart\DevCart_MVC\obj\Debug\netcoreapp3.1\Razor\View
 E:\New PJ DevCart\DevCart\DevCart\DevCart_MVC\obj\Debug\netcoreapp3.1\DevCart_MVC.csprojAssemblyReference.cache
 E:\New PJ DevCart\DevCart\DevCart\DevCart_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Project\_Project.cshtml.g.cs
 E:\New PJ DevCart\DevCart\DevCart\DevCart_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Articel\_Articel.cshtml.g.cs
+E:\New PJ DevCart\DevCart\DevCart\DevCart_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Header.cshtml.g.cs
